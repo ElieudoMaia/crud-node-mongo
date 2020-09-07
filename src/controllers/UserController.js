@@ -1,6 +1,5 @@
 const User = require('../models/User')
 const bcrypt = require('bcrypt')
-const { findById } = require('../models/User')
 
 module.exports = {
 
